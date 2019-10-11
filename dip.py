@@ -12,7 +12,7 @@ import sys
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-folder = "/Users/tiago/Dropbox/pro/src/cvi/dip/db"
+folder = "db"
 
 #%matplotlib inline
 
